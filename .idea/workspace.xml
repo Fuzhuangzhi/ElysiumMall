@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="702ecad3-2a3b-4b87-9b79-5c521b49a668" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -76,7 +75,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582643737213</updated>
-      <workItem from="1582643742339" duration="1125000" />
+      <workItem from="1582643742339" duration="1361000" />
+      <workItem from="1582645200091" duration="821000" />
     </task>
     <task id="LOCAL-00001" summary="Elysium Mall By JiaJun Zhu">
       <created>1582644203111</created>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582644223059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Elysium Mall By JiaJun Zhu">
+      <created>1582644941186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582644941186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,30 +110,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Elysium Mall By JiaJun Zhu" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="255" y="50" key="CommitChangelistDialog2" timestamp="1582644222835">
+    <state x="255" y="50" key="CommitChangelistDialog2" timestamp="1582644940960">
       <screen x="38" y="23" width="1402" height="877" />
     </state>
-    <state x="255" y="50" key="CommitChangelistDialog2/38.23.1402.877@38.23.1402.877" timestamp="1582644222835" />
-    <state width="1302" height="221" key="GridCell.Tab.0.bottom" timestamp="1582644017034">
+    <state x="255" y="50" key="CommitChangelistDialog2/38.23.1402.877@38.23.1402.877" timestamp="1582644940960" />
+    <state width="1302" height="221" key="GridCell.Tab.0.bottom" timestamp="1582645166968">
       <screen x="38" y="23" width="1402" height="877" />
     </state>
-    <state width="1302" height="221" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1582644017034" />
-    <state width="1302" height="221" key="GridCell.Tab.0.center" timestamp="1582644017032">
+    <state width="1302" height="221" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1582645166968" />
+    <state width="1302" height="221" key="GridCell.Tab.0.center" timestamp="1582645166967">
       <screen x="38" y="23" width="1402" height="877" />
     </state>
-    <state width="1302" height="221" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1582644017032" />
-    <state width="1302" height="221" key="GridCell.Tab.0.left" timestamp="1582644017032">
+    <state width="1302" height="221" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1582645166967" />
+    <state width="1302" height="221" key="GridCell.Tab.0.left" timestamp="1582645166966">
       <screen x="38" y="23" width="1402" height="877" />
     </state>
-    <state width="1302" height="221" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1582644017032" />
-    <state width="1302" height="221" key="GridCell.Tab.0.right" timestamp="1582644017033">
+    <state width="1302" height="221" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1582645166966" />
+    <state width="1302" height="221" key="GridCell.Tab.0.right" timestamp="1582645166967">
       <screen x="38" y="23" width="1402" height="877" />
     </state>
-    <state width="1302" height="221" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1582644017033" />
-    <state x="173" y="88" key="SettingsEditor" timestamp="1582644919615">
+    <state width="1302" height="221" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1582645166967" />
+    <state x="173" y="88" key="SettingsEditor" timestamp="1582647887914">
       <screen x="38" y="23" width="1402" height="877" />
     </state>
-    <state x="173" y="88" key="SettingsEditor/38.23.1402.877@38.23.1402.877" timestamp="1582644919615" />
+    <state x="173" y="88" key="SettingsEditor/38.23.1402.877@38.23.1402.877" timestamp="1582647887914" />
     <state x="324" y="189" key="Vcs.Push.Dialog.v2" timestamp="1582644932159">
       <screen x="38" y="23" width="1402" height="877" />
     </state>
