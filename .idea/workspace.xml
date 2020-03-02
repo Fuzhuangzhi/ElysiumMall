@@ -1,172 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="702ecad3-2a3b-4b87-9b79-5c521b49a668" name="Default Changelist" comment="Elysium Mall By JiaJun Zhu">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/mall-admin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/MallAdminApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/bo/AdminUserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/bo/WebLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/component/BindingResultAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/component/JwtAuthenticationTokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/component/RestAuthenticationEntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/component/RestfulAccessDeniedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/component/WebLogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/config/GlobalCorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/config/MyBatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/config/OssConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/config/Swagger2Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/CmsPrefrenceAreaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/CmsSubjectController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/OmsCompanyAddressController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/OmsOrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/OmsOrderReturnApplyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/OmsOrderReturnReasonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/OmsOrderSettingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/OssController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/PmsBrandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/PmsProductAttributeCategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/PmsProductAttributeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/PmsProductCategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/PmsProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/PmsSkuStockController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsCouponController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsCouponHistoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsFlashPromotionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsFlashPromotionProductRelationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsFlashPromotionSessionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsHomeAdvertiseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsHomeBrandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsHomeNewProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsHomeRecommendProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/SmsHomeRecommendSubjectController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/UmsAdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/UmsMemberLevelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/UmsPermissionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/controller/UmsRoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/CmsPrefrenceAreaProductRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/CmsSubjectProductRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/OmsOrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/OmsOrderOperateHistoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/OmsOrderReturnApplyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsMemberPriceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductAttributeCategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductAttributeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductAttributeValueDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductCategoryAttributeRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductCategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductFullReductionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductLadderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsProductVertifyRecordDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/PmsSkuStockDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/SmsCouponDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/SmsCouponProductCategoryRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/SmsCouponProductRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/SmsFlashPromotionProductRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/UmsAdminPermissionRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/UmsAdminRoleRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dao/UmsRolePermissionRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OmsMoneyInfoParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OmsOrderDeliveryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OmsOrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OmsOrderQueryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OmsOrderReturnApplyResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OmsReceiverInfoParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OmsReturnApplyQueryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OmsUpdateStatusParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OssCallbackParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OssCallbackResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/OssPolicyResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/PmsBrandParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/PmsProductAttributeCategoryItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/PmsProductAttributeParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/PmsProductCategoryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/PmsProductCategoryWithChildrenItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/PmsProductParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/PmsProductQueryParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/PmsProductResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/ProductAttrInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/SmsCouponParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/SmsFlashPromotionProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/SmsFlashPromotionSessionDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/UmsAdminLoginParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/UmsAdminParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/dto/UmsPermissionNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/CmsPrefrenceAreaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/CmsSubjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/OmsCompanyAddressService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/OmsOrderReturnApplyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/OmsOrderReturnReasonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/OmsOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/OmsOrderSettingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/OssService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/PmsBrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/PmsProductAttributeCategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/PmsProductAttributeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/PmsProductCategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/PmsProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/PmsSkuStockService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsCouponHistoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsCouponService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsFlashPromotionProductRelationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsFlashPromotionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsFlashPromotionSessionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsHomeAdvertiseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsHomeBrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsHomeNewProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsHomeRecommendProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/SmsHomeRecommendSubjectService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/UmsAdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/UmsMemberLevelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/UmsPermissionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/UmsRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/CmsPrefrenceAreaServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/CmsSubjectServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/OmsCompanyAddressServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/OmsOrderReturnApplyServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/OmsOrderReturnReasonServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/OmsOrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/OmsOrderSettingServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/OssServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/PmsBrandServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/PmsProductAttributeCategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/PmsProductAttributeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/PmsProductCategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/PmsProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/PmsSkuStockServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsCouponHistoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsCouponServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsFlashPromotionProductRelationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsFlashPromotionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsFlashPromotionSessionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsHomeAdvertiseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsHomeBrandServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsHomeNewProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsHomeRecommendProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/SmsHomeRecommendSubjectServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/UmsAdminServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/UmsMemberLevelServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/UmsPermissionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/service/impl/UmsRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/util/JwtTokenUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/validator/FlagValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/main/java/com/jack/mall/validator/FlagValidatorClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-admin/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-common/mall-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-common/src/test/java/com/jack/mall/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-mbg/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-mbg/src/test/java/com/jack/mall/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="702ecad3-2a3b-4b87-9b79-5c521b49a668" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/MyMall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,7 +144,7 @@
       <workItem from="1582651292309" duration="466000" />
       <workItem from="1582652144727" duration="416000" />
       <workItem from="1583122971128" duration="2194000" />
-      <workItem from="1583125468129" duration="222000" />
+      <workItem from="1583125468129" duration="641000" />
     </task>
     <task id="LOCAL-00001" summary="Elysium Mall By JiaJun Zhu">
       <created>1582644203111</created>
@@ -358,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582648534043</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Elysium Mall By JiaJun Zhu">
+      <created>1583125754661</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583125754661</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Elysium Mall By JiaJun Zhu">
+      <created>1583125863523</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583125863523</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,11 +225,11 @@
       <screen x="38" y="23" width="1402" height="877" />
     </state>
     <state x="271" y="114" key="#Deployment/38.23.1402.877@38.23.1402.877" timestamp="1582648185069" />
-    <state x="435" y="67" key="CommitChangelistDialog2" timestamp="1583125754084">
+    <state x="435" y="67" key="CommitChangelistDialog2" timestamp="1583125863299">
       <screen x="46" y="23" width="2514" height="1417" />
     </state>
     <state x="255" y="50" key="CommitChangelistDialog2/38.23.1402.877@38.23.1402.877" timestamp="1582648533774" />
-    <state x="435" y="67" key="CommitChangelistDialog2/46.23.2514.1417@46.23.2514.1417" timestamp="1583125754084" />
+    <state x="435" y="67" key="CommitChangelistDialog2/46.23.2514.1417@46.23.2514.1417" timestamp="1583125863299" />
     <state x="576" y="348" width="417" height="281" key="Github.ShareDialog" timestamp="1582652187540">
       <screen x="39" y="23" width="1401" height="877" />
     </state>

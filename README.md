@@ -12,7 +12,7 @@
 ### Tech stacks
 
 #### Back-end
-
+// still in progress
 Tech stack | Specifications | Official web
 ----|----|----
 Spring Boot | 容器+MVC框架 | [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
@@ -33,9 +33,9 @@ JWT | JWT登录支持 | [https://github.com/jwtk/jjwt](https://github.com/jwtk/j
 LogStash | 日志收集 | [https://github.com/logstash/logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder)
 Lombok | 简化对象封装工具 | [https://github.com/rzwitserloot/lombok](https://github.com/rzwitserloot/lombok)
 
-#### 前端技术
-
-技术 | 说明 | 官网
+#### Front-end
+// still in progress
+Tech stack | Specifications | Official web
 ----|----|----
 Vue | 前端框架 | [https://vuejs.org/](https://vuejs.org/)
 Vue-router | 路由框架 | [https://router.vuejs.org/](https://router.vuejs.org/)
@@ -46,25 +46,6 @@ v-charts | 基于Echarts的图表框架 | [https://v-charts.js.org/](https://v-c
 Js-cookie | cookie管理工具 | [https://github.com/js-cookie/js-cookie](https://github.com/js-cookie/js-cookie)
 nprogress | 进度条控件 | [https://github.com/rstacruz/nprogress](https://github.com/rstacruz/nprogress)
 
-#### 架构图
-
-##### 系统架构图
-
-![系统架构图](document/resource/mall_system_arch.png)
-
-##### 业务架构图
-
-![系统架构图](document/resource/mall_business_arch.png)
-
-#### 模块介绍
-
-##### 后台管理系统 `mall-admin`
-
-- 商品管理：[功能结构图-商品.jpg](document/resource/mind_product.jpg)
-- 订单管理：[功能结构图-订单.jpg](document/resource/mind_order.jpg)
-- 促销管理：[功能结构图-促销.jpg](document/resource/mind_sale.jpg)
-- 内容管理：[功能结构图-内容.jpg](document/resource/mind_content.jpg)
-- 用户管理：[功能结构图-用户.jpg](document/resource/mind_member.jpg)
 
 ### Development Environment
 
