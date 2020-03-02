@@ -55,15 +55,15 @@
 
 ### Development Environment
 
-Tools | Version | Download
-----|----|----
-JDK | 13 | https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-Mysql | 5.7 | https://www.mysql.com/
-Redis | 3.2 | https://redis.io/download
-Elasticsearch | 6.2.2 | https://www.elastic.co/downloads
-MongoDb | 3.2 | https://www.mongodb.com/download-center
-RabbitMq | 3.7.14 | http://www.rabbitmq.com/download.html
-nginx | 1.10 | http://nginx.org/en/download.html
+Tools           |Version | Download
+| ------------- | ------ | ------------------------------------------------------------ |
+| JDK           | 1.8    | https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html |
+| Mysql         | 5.7    | https://www.mysql.com/                                       |
+| Redis         | 3.2    | https://redis.io/download                                    |
+| Elasticsearch | 6.2.2  | https://www.elastic.co/downloads                             |
+| MongoDb       | 3.2    | https://www.mongodb.com/download-center                      |
+| RabbitMq      | 3.7.14 | http://www.rabbitmq.com/download.html                        |
+| Nginx         | 1.10   | http://nginx.org/en/download.html                            |
 
 
 Copyright (c) 2018-2020 jackzhu
